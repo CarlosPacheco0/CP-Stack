@@ -19,7 +19,7 @@ Bienvenido a mi ecosistema de desarrollo. Este repositorio centraliza mi stack t
 * **Systems:** SaaS Architecture, Multi-tenancy, RESTful APIs
 
 ### Frontend
-* **Frameworks:** Vue.js, Angular
+* **Frameworks:** Angular, React
 * **Tooling:** Vite, NPM/PNPM
 
 ### DevOps & Cloud
